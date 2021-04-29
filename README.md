@@ -1,6 +1,6 @@
 <div align="center">
+    <h1>Chat NLW</h1>
 	<img src="public/images/Banner.gif" width="600"/>
-	<h1>Escolha do seu quiz</h1>
 </div>
 
 
