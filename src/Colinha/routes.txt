@@ -1,0 +1,10 @@
+/* 
+        * Tipos de parâmetros
+-- Routes Params => Parametros de rotas 
+hhtps://localhost:3333/settings/1
+-- Query Params => Filtros e buscas 
+hhtps://localhost:3333/settings/1?search=algumacoisa
+-- Body Params => {
+
+} (insercoes dentro das nossas requisicoes atraves de um json)
+*/
